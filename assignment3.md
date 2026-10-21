@@ -11,3 +11,9 @@ B.
 C. 
 
 ## Section 2. Final Project Data
+__Links to original datasets__
+
+May 1970 National student strike map: https://depts.washington.edu/moves/antiwar_may1970.shtml
+
+April/May 1970 Gaza encampment map: https://students4gaza.directory/
+
